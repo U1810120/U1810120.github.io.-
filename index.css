@@ -1,0 +1,51 @@
+
+body {
+    background-image: url(https://images.wallpaperscraft.ru/image/poverhnost_svetlyy_polosy_linii_fon_35124_1920x1080.jpg);
+    background-repeat: repeat-y;
+}
+
+h1 {
+    color: rgb(0, 68, 255);
+    text-align: center;
+    font-size: 1.75em;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+}
+
+p {
+	 text-align: center;
+     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+     font-size: 1.5em;
+     color: rgb(113, 0, 16);
+}
+
+img
+{
+	 display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+table
+{
+	border-collapse: collapse;
+	width: 100%
+}
+th {
+    height: 50px;
+    text-align: left;
+    font-size: 1.5em;
+}
+td
+{
+	height: 50px;
+    vertical-align: bottom;
+     font-size: 1.5em;
+}
+h2
+{
+   color: rgb(0, 68, 255);
+   text-align: right;
+   font-size: 2.5em;
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
